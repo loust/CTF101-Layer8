@@ -43,9 +43,9 @@ You can choose to conduct an alliance with multiple hackers or take on the path 
 to claim the top prize to yourself! A team is just a single user.
 
 # Prize list
-*1st : $50 Gift Card + Maker Uno Edu kit
-*2nd : $30 Gift Card
-*3rd : $20 Gift Card
+* 1st : $50 Gift Card + Maker Uno Edu kit
+* 2nd : $30 Gift Card
+* 3rd : $20 Gift Card
 
 # Terminology
 ```CTF : Capture The Flag.```
