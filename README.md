@@ -4,6 +4,8 @@
 Welcome to the CTF 101 event. This CTF in particular goes from 8am to 8pm on March 18, 2019. Please
 have fun!
 
+[CTF Link](https://l8ctf.club/)
+
 # Rules
 1. Competitors shall not attempt to game the scoring engine.
 2. Competitors shall obey the description of each challenge.
