@@ -48,9 +48,9 @@ to claim the top prize to yourself! A team is just a single user.
 * 3rd : $20 Gift Card
 
 # Terminology
-```CTF : Capture The Flag.```
-```Flag : The string of text that is required to be submitted to acquire your points.```
-```Writeups : Post-CTF shared or private documentation.```
+* ```CTF : Capture The Flag.```
+* ```Flag : The string of text that is required to be submitted to acquire your points.```
+* ```Writeups : Post-CTF shared or private documentation.```
 
 # CTF Categories
 Network Analysis of packet captures (pcaps) with Wireshark.
